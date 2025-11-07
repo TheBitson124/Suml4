@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 from datetime import datetime
+improt sklearn
 
 startTime = datetime.now()
 # import znanych nam bibliotek
