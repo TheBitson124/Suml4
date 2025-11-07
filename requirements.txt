@@ -1,4 +1,2 @@
 scikit-learn
 streamlit
-pickle
-sklearn
